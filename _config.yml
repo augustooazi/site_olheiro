@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Olheiro
 description: A sua newsletter sobre futebol.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /olheiro # the subpath of your site, e.g. /blog
 url: https://augustooazi.github.io/olheiro # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: olheiro # the GitHub repo name for your project
 github_username: augustooazi
