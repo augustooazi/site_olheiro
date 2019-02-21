@@ -58,12 +58,12 @@ h6, .h6 {
   letter-spacing: 0.02em; }
 
 a {
-  color: #CD2DA8;
-  text-decoration: none; }
+  color: inherit;
+  text-decoration: underline; }
 
 a:hover {
-  color: #CD2DA8;
-  text-decoration: underline; }
+  color: #2F2323;
+  text-decoration: inherit; }
 
 pre {
   border-left: 8px solid #ddd;
