@@ -58,10 +58,11 @@ h6, .h6 {
   letter-spacing: 0.02em; }
 
 a {
-  color: inherit;
+  color: #CD2DA8;
   text-decoration: none; }
 
 a:hover {
+  color: #CD2DA8;
   text-decoration: underline; }
 
 pre {
