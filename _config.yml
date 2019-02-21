@@ -16,7 +16,7 @@
 title: Olheiro
 description: A sua newsletter sobre futebol.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://augustooazi.github.io/olheiro # the base hostname & protocol for your site, e.g. http://example.com
+url: https://augustooazi.github.io/olheiro/ # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
 github_username: jekyll
 
