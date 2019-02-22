@@ -26,7 +26,7 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #2F2323;
+  color: #181818;
   background-color: #fff; }
 
 p {
@@ -62,7 +62,7 @@ a {
   text-decoration: underline; }
 
 a:hover {
-  color: #2F2323;
+  color: #181818;
   text-decoration: inherit; }
 
 pre {
@@ -73,7 +73,7 @@ pre {
   overflow-x: auto; }
 
 code {
-  color: #CD2DA8;
+  color: #777;
   font-size: 16px;
   padding: 1px 0px; }
 
@@ -115,7 +115,7 @@ code {
       .prose blockquote p {
         font-size: 32px; } }
 .prose hr {
-  color: #2F2323;
+  color: #181818;
   border-style: solid;
   border-width: thin;
   margin-top: 0.5em;
@@ -141,14 +141,14 @@ code {
   .prose table th,
   .prose table td {
     padding: 16px 32px 16px 2px;
-    border-top: 1px solid #2F2323;
-    border-bottom: 1px solid #2F2323; }
+    border-top: 1px solid #181818;
+    border-bottom: 1px solid #181818; }
   .prose table tr {
     background-color: #fff;
-    border-top: 1px solid #2F2323; }
+    border-top: 1px solid #181818; }
   .prose table tr th {
-    border-top: 2px solid #2F2323;
-    border-bottom: 2px solid #2F2323; }
+    border-top: 2px solid #181818;
+    border-bottom: 2px solid #181818; }
 
 /* Type utilities */
 .h0 {
@@ -203,28 +203,28 @@ code {
 
 /* Theme color utilities */
 .header-background {
-  background-color: #CD2DA8; }
+  background-color: #bbb; }
 
 .header-border {
-  border-color: #fff; }
+  border-color: #181818; }
 
 .header-title {
-  color: #fff; }
+  color: #181818; }
 
 .header-text {
-  color: #fff; }
+  color: #181818; }
 
 .header-social {
-  fill: #fff; }
+  fill: #181818; }
 
 .header-social-accent {
-  fill: #2F2323; }
+  fill: #fff; }
 
 .header-link:hover {
-  color: #2F2323 !important; }
+  color: #444 !important; }
 
 .text-accent {
-  color: #CD2DA8; }
+  color: #777; }
 
 /* Layout utilities */
 .container {
@@ -476,5 +476,5 @@ code {
   font-weight: bold;
   text-decoration: none !important; }
   .link-primary:hover {
-    color: #CD2DA8;
+    color: #777;
     text-decoration: none !important; }

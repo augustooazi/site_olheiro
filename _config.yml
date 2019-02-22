@@ -18,7 +18,7 @@ description: A sua newsletter sobre futebol.
 baseurl: /olheiro # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: olheiro # the GitHub repo name for your project
-github_username: augustooazi
+project_owner: Augusto Oazi
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
@@ -27,7 +27,7 @@ social_username: jekyllrb
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: magenta
+theme_color: gray
 
 # Build settings
 markdown: kramdown

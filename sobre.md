@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre Nós
+title: Sobre
 permalink: /sobre/
 ---
 
