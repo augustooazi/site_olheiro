@@ -66,14 +66,14 @@ a:hover {
   text-decoration: inherit; }
 
 pre {
-  border-left: 8px solid #ddd;
+  border-left: 8px solid #ff6600;
   margin: 32px 0;
   padding-left: 16px;
   width: 75%;
   overflow-x: auto; }
 
 code {
-  color: #777;
+  color: #767676;
   font-size: 16px;
   padding: 1px 0px; }
 
@@ -103,7 +103,7 @@ code {
   line-height: 1.375;
   padding-left: 20px;
   margin: 40px 0 40px -16px;
-  border-left: 8px solid #ddd;
+  border-left: 8px solid #ff6600;
   font-style: italic; }
   .prose blockquote p {
     font-size: 24px; }
@@ -203,13 +203,13 @@ code {
 
 /* Theme color utilities */
 .header-background {
-  background-color: #bbb; }
+  background-color: #ff6600; }
 
 .header-border {
   border-color: #181818; }
 
 .header-title {
-  color: #181818; }
+  color: #fff; }
 
 .header-text {
   color: #181818; }
@@ -218,13 +218,13 @@ code {
   fill: #181818; }
 
 .header-social-accent {
-  fill: #fff; }
+  fill: #181818; }
 
 .header-link:hover {
-  color: #444 !important; }
+  color: #fff !important; }
 
 .text-accent {
-  color: #777; }
+  color: #ee6600; }
 
 /* Layout utilities */
 .container {
@@ -476,5 +476,5 @@ code {
   font-weight: bold;
   text-decoration: none !important; }
   .link-primary:hover {
-    color: #777;
+    color: #ff6600;
     text-decoration: none !important; }
