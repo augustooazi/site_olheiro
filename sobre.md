@@ -4,23 +4,31 @@ title: Sobre
 permalink: /sobre/
 ---
 
-No futebol, o **Olheiro** é aquele que identifica os melhores talentos. Segundo o dicionário, **Olheiro** é aquele que tem como encargo informar o que vê. A newsletter do **Olheiro** será aquela que todo sábado pela manhã irá entregar no seu e-mail uma indicação dos melhores textos sobre futebol na semana.
+No futebol, o **Olheiro** é aquele que identifica os melhores talentos.
+
+A newsletter do **Olheiro** será aquela que todo sábado pela manhã irá entregar no seu e-mail uma indicação dos melhores conteúdos sobre futebol na semana.
+
+Se inscreva e embarque com a gente nessa jornada.
 
 ## A Cor
 
 Poderíamos escrever aqui um belo texto dizendo como a cor laranja do **Olheiro** é uma homenagem a Cruijff e o futebol total da Holanda de 74, mas estaríamos mentindo.
 
-Somos laranja, porque quase nenhum time no Brasil o é. Quase toda cor e até a ausência dela nos traz à memória algum uniforme marcante. Se verde fossêmos, corinthianos e athleticano (com H) não estariam a vontade. Azul e atrairíamos a ira de colorados e atleticanos. Vermelho e a metade gremista de Porto Alegre estaria furiosa. Somos laranja para ser de todas as torcidas.
+Somos laranja, porque quase nenhum time no Brasil o é. Se verde fossêmos, corinthianos e athleticanos (com H) não ficariam à vontade. Azul e atrairíamos a ira de colorados e atleticanos (sem H). Vermelho e a metade gremista de Porto Alegre estaria furiosa. Alvinegro e palmeirenses, cruzeirenses e flamenguistas ficariam incomodados.
+
+Quase todas as cores e até a ausência de todas elas nos trazem à memória algum uniforme marcante. Somos laranja para ser de todas as torcidas.
+
+##
 
 ## Privacidade
 
-A internet se provou uma terra sem lei, onde nossos dados pessoais são entregues a qualquer empresa em troca de "anúncios relevantes". Aqui no **Olheiro** a sua privacidade será respeitada.
+Todos os nossos passos na internet estão sendo seguidos e nossos dados pessoais se tornaram mercadoria barata entregue a qualquer empresa em troca de "anúncios relevantes". Aqui no **Olheiro** a sua privacidade é e sempre será respeitada.
 
 Ao nos visitar, garantimos que:
 
 * nenhum rastreador estará seguindo os seus passos
 * seus dados nunca serão vendidos
 * qualquer anúncio será devidamente sinalizado
-*
+* você nunca receberá spam de nós em seu e-mail
 
-Por isso, não temos redes sociais. Com exceção de nosso perfil no Twitter, que futuramente será desativado, você não nos encontrará em Facebook, Instagram, etc. Nós nos preocupamos 
+Por esse respeito à privacidade, não temos redes sociais. Com exceção de nosso perfil no Twitter, que futuramente será desativado, você não nos encontrará em Facebook, Instagram, etc.

@@ -152,13 +152,13 @@ code {
 
 /* Type utilities */
 .h0 {
-  font-size: 64px;
+  font-size: 48px;
   line-height: 1.0125;
   margin-top: 0.85em;
   word-wrap: break-word; }
   @media (min-width: 52em) {
     .h0 {
-      font-size: 128px; } }
+      font-size: 72px; } }
 
 .text-right {
   text-align: right; }
