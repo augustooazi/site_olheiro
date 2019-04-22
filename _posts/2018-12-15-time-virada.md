@@ -13,11 +13,9 @@ No entanto, a virada é um resultado muito raro no futebol e o seu time não é 
 ### As viradas no Brasileirão 2018
 Vamos analisar os números do último Brasileirão. Foram apenas 35 viradas nos 380 jogos do campeonato. Em menos de 10% dos jogos o épico aconteceu.
 
-<iframe title="O que acontece quando um time sai atrás no placar?" aria-label="Election Donut" src="//datawrapper.dwcdn.net/KSUhP/2/" scrolling="no" frameborder="0" width="600" height="300"></iframe>
+<iframe title="O que acontece quando um time sai atras no placar?" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/KSUhP/3/" scrolling="no" frameborder="0" width="100%" height="127"></iframe>
 
-<iframe title="O que acontece quando um time sai atras no placar?" aria-label="Election Donut" id="datawrapper-chart-KSUhP" src="//datawrapper.dwcdn.net/KSUhP/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
-
-Os números mostram que, no Brasileirão 2018, a cada dez vezes que um time sai em desvantagem, em sete ele será derrotado. Até mesmo buscar o empate é muito difícil, acontecendo apenas em dois de cada dez jogos.
+Os números mostram que, no Brasileirão 2018, a cada dez vezes que um time saiu em desvantagem, em sete ele foi derrotado. Até mesmo buscar o empate foi muito difícil, acontecendo apenas em dois de cada dez jogos.
 O time que mais conseguiu viradas no Brasileirão 2018 foi o Atlético Mineiro, mas esse número deve ser observado com atenção. O Galo foi um dos times que mais começou perdendo os seus jogos. Foram 20 partidas em que o adversário marcou o primeiro gol do jogo e como foi mostrado anteriormente, isso não é bom.
 
 Por outro lado, o time que mais iludiu os seus torcedores e abriu o placar, mas cedeu a virada foi o Athletico Paranaense. Em 6 jogos o Furacão marcou o primeiro gol do jogo, mas acabou sendo derrotado.
