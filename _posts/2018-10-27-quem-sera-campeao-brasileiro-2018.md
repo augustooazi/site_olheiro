@@ -4,6 +4,22 @@ title:  "Quem será o campeão brasileiro em 2018?"
 date:   2018-10-27
 ---
 
+Para Pep Guardiola, um campeonato de pontos corridos se ganha nas últimas oito rodadas e se perde nas oito primeiras. De acordo com a teoria do técnico espanhol, entramos no momento de ganhar o Brasileirão 2018.
+
+Com o encerramento da 30ª rodada, Palmeiras, Flamengo e Internacional são os times que chegam às últimas oito rodadas na briga pelo título. São Paulo e Grêmio tropeçaram nas últimas três rodadas e ficaram longe da disputa.
+
+Qual dos três concorrentes tem o caminho mais fácil nos oito jogos finais?
+
+### Qual foi a conta?
+
+Para calcular qual dos três times tem o caminho mais fácil para ser campeão será analisada a dificuldade que seus adversários remanescentes podem oferecer com base no desempenho no campeonato.
+
+No cálculo, será analisado separadamente o desempenho como mandante e como visitante dos adversários que os concorrentes ao título ainda enfrentarão nas últimas oito rodadas.
+
+Por exemplo, Internacional e Palmeiras ainda enfrentarão o Atlético Mineiro, mas enquanto o Verdão vai até Minas jogar contra o Galo, o Colorado receberá o adversário no Beira-Rio. Com isso, o Atlético somará 33 pontos, que foram conquistados como mandante, na conta do Palmeiras e apenas 13, que foram conquistados como visitante, na conta do Internacional.
+
+Além da conta do campeonato inteiro, também será feita uma análise levando em consideração o desempenho dos times no segundo turno. Desse modo, o momento atual do time terá um peso maior na análise. O Ceará, apesar de estar na zona de rebaixamento, faz até agora a oitava melhor campanha do segundo turno e é um adversário difícil de ser batido.
+
 Os caminhos de Palmeiras, Flamengo e Internacional foram analisados e temos um veredicto: **o caminho mais fácil é o do Internacional!** Quer saber os motivos?
 
 ### Pontos dos adversários como mandante e visitante

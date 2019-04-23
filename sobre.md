@@ -10,6 +10,8 @@ A newsletter do **Olheiro** será aquela que todo sábado pela manhã irá entre
 
 Se inscreva e embarque com a gente nessa jornada.
 
+Também publicaremos textos autorais regularmente aqui em nosso site.
+
 ## A Cor
 
 Poderíamos escrever aqui um belo texto dizendo como a cor laranja do **Olheiro** é uma homenagem a Cruijff e o futebol total da Holanda de 74, mas estaríamos mentindo.
@@ -17,8 +19,6 @@ Poderíamos escrever aqui um belo texto dizendo como a cor laranja do **Olheiro*
 Somos laranja, porque quase nenhum time no Brasil o é. Se verde fossêmos, corinthianos e athleticanos (com H) não ficariam à vontade. Azul e atrairíamos a ira de colorados e atleticanos (sem H). Vermelho e a metade gremista de Porto Alegre estaria furiosa. Alvinegro e palmeirenses, cruzeirenses e flamenguistas ficariam incomodados.
 
 Quase todas as cores e até a ausência de todas elas nos trazem à memória algum uniforme marcante. Somos laranja para ser de todas as torcidas.
-
-##
 
 ## Privacidade
 
