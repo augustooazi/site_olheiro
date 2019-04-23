@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dissecando o Sucesso Financeiro do Paulistão"
-date:   2018-04-15
+date:   2018-04-30
 ---
 
 À primeira vista, os números de público pagante e a renda bruta do Paulistão 2018 podem indicar um sucesso financeiro do campeonato organizado pela Federação Paulista de Futebol (FPF). Com uma média de 9.071 pagantes por jogo e uma renda bruta com bilheteria de 48,4 milhões de reais o Paulistão 2018 se destaca ainda mais quando comparado aos outros principais campeonatos estaduais do país (Carioca, Mineiro e Gaúcho). Parece claro que a FPF acertou a mão e que temos um exemplo a ser seguido na busca pela salvação dos tradicionais campeonatos estaduais.

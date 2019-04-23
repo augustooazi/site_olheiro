@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Desigualdade nos Estaduais em 2018"
-date:   2018-04-30
+date:   2018-05-15
 ---
 
 Você conhece o Coeficiente de Gini? Essa medida foi criada pelo estatístico italiano Corrado Gini para medir a desigualdade em qualquer distribuição. O Coeficiente de Gini vai de 0 a 1, sendo que 0 corresponde à completa igualdade e 1 corresponde à completa desigualdade. Ou seja, quanto mais perto de 1, mais desigual é a distribuição analisada.
