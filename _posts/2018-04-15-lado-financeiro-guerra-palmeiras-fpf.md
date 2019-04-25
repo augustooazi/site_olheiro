@@ -12,6 +12,8 @@ Os torcedores palmeirenses, que sempre cobraram uma resposta mais agressiva do c
 
 Essa não é uma decisão fácil, pois mesmo com os estaduais em crise, o Campeonato Paulista ainda traz receitas relevantes aos clubes. Vamos ver quanto o Palmeiras arrecadou com o Campeonato de 2018.
 
+## O lado do Palmeiras
+
 ### Cotas de Televisão
 Os direitos de transmissão do Campeonato Paulista são os mais valorizados pela Globo entre os estaduais. A valorização do campeonato trouxe em 2018 20 milhões de reais a cada um dos quatro clubes grandes do estado.
 
@@ -32,15 +34,13 @@ Premiação
 
 A premiação do Campeonato Paulista é a maior entre os campeonatos estaduais do país. 5 milhões de reais para o campeão e 1,6 milhões para o vice, valor ganho pelo Palmeiras.
 
-## Total: 33,1 milhões de reais
+### Total: 33,1 milhões de reais
 
 O valor arrecadado diretamente com o Campeonato Paulista em 2018 não é desprezível: corresponde a um pouco mais de 5% do faturamento anual palmeirense e pagaria um mês das despesas do departamento de futebol profissional do clube.
 
-Parte desse valor perdido ao não disputar o estadual com o time principal poderia ser recuperado em um tour de pré-temporada, com as bilheterias do time B que disputasse o Paulistão, entre outras ações, mas dificilmente o Palmeiras conseguiria chegar aos 33 milhões.
+Parte desse valor perdido ao não disputar o estadual com o time principal poderia ser recuperado em um tour de pré-temporada, com as bilheterias do time B que disputasse o Paulistão, entre outras ações, mas dificilmente o Palmeiras conseguiria chegar aos 33 milhões. Vale a pena não disputar o Paulistão 2019?
 
-A ideia desse artigo é mostrar como o lado financeiro do Palmeiras seria afetado nessa guerra de bastidores com a FPF e abrir um espaço para discussão. Vale a pena não disputar o Paulistão 2019?
-
-Depois do texto inaugural deste espaço, onde foi analisado o quanto o Palmeiras perderia ao não disputar o Paulistão, é hora de ver o outro lado dessa guerra: quanto dinheiro a Federação Paulista de Futebol deixaria de ganhar se o Palmeiras não disputasse o Paulistão, além de outros possíveis impactos negativos.
+## O lado da FPF
 
 A primeira divisão do campeonato estadual mais rico do país é a principal competição organizada pela FPF e uma de suas principais fontes de renda. Acostumada a ter os clubes sempre em concordância com todas as suas ações, a rebeldia do Palmeiras pode trazer consequências que destruam a estrutura atual da Federação, a começar pelas perdas financeiras.
 
