@@ -14,7 +14,7 @@ Enquanto na Europa, os times de elite dificilmente fazem mais de 60 jogos no ano
 
 Em 2019, teremos times que podem bater a marca dos 80 jogos no ano. O Bahia, se for para todas as finais dos campeonatos que disputar, poderá fazer 88 jogos.
 
-![](https://cdn-images-1.medium.com/max/1600/1*zMar7cD-BnMwOgdfjIxqKQ.png)
+<iframe title="" aria-label="Range Plot" src="//datawrapper.dwcdn.net/TrynL/2/" scrolling="no" frameborder="0" width="100%" height="506"></iframe>
 
 O inchadíssimo Campeonato Catarinense, com a primeira fase sendo disputada em turno e returno, obriga Chapecoense e Avaí a disputarem no mínimo 18 jogos. Nenhum outro time vai se desgastar tanto no campeonato estadual quanto os dois. Apenas os dois finalistas do Campeonato Paulista também farão 18 jogos.
 
