@@ -18,7 +18,7 @@ Para a temporada atual, o Palmeiras não apostou em medalhões na janela de iní
 
 Na janela de meio de ano, algumas apostas em jogadores mais renomados (Ramires, Luiz Adriano e Vitor Hugo) foram feitas para resolver problemas pontuais que o time vinha apresentando. Com essas contratações, a situação atual do elenco palmeirense ficou da seguinte forma:
 
-<iframe title="Contratacoes Palmeiras" aria-label="Scatter Plot" src="//datawrapper.dwcdn.net/GWnc3/2/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="557"></iframe>
+<iframe title="Contratacoes Palmeiras" aria-label="Scatter Plot" src="//datawrapper.dwcdn.net/GWnc3/3/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="557"></iframe>
 
 Da primeira temporada de Mattos no Palmeiras, os únicos jogadores remanescentes são o ídolo Dudu e o volante Thiago Santos - Vitor Hugo foi repatriado após dois anos na Itália. Os goleiros Fernando Prass e Jaílson são os únicos que chegaram ao Palmeiras antes do dirigente.
 
