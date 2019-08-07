@@ -4,13 +4,9 @@ title: Sobre
 permalink: /sobre/
 ---
 
-No futebol, o **Olheiro** é aquele que identifica os melhores talentos.
+No futebol, o profissional **Olheiro** é aquele que identifica os melhores talentos entre centenas de jovens atletas que sonham ser o próximo camisa 10 da seleção brasileira.
 
-A newsletter do **Olheiro** será aquela que todo sábado pela manhã irá entregar no seu e-mail uma indicação dos melhores conteúdos sobre futebol na semana.
-
-Se inscreva e embarque com a gente nessa jornada.
-
-Também publicaremos textos autorais regularmente aqui em nosso site.
+O blog **Olheiro** pretende ser aquele que identifica histórias escondidas na quantidade gigantesca de dados sobre futebol disponível atualmente.
 
 ## A Cor
 
@@ -31,4 +27,4 @@ Ao nos visitar, garantimos que:
 * qualquer anúncio será devidamente sinalizado
 * você nunca receberá spam de nós em seu e-mail
 
-Por esse respeito à privacidade, não temos redes sociais. Com exceção de nosso perfil no Twitter, que futuramente será desativado, você não nos encontrará em Facebook, Instagram, etc.
+Por esse respeito à privacidade, não temos redes sociais. Para bater um papo, envie um e-mail para [contato@olheiro.com](contato@olheiro.com).
