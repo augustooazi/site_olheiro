@@ -4,17 +4,17 @@ title: "Por que o Botafogo é o time mais medíocre do Brasileirão?"
 date: 2019-10-01
 ---
 
-Antes de começarmos: **"Calma, botafoguenses!"**. Medíocre é um adjetivo que siginifica que algo é *"de qualidade média, mediana; que não é bom nem mau; ordinário"*. Os números levantados nos darão a resposta da pergunta do título.
+Antes de começarmos: **"Calma, botafoguenses!"**. Medíocre é um adjetivo que significa que algo é *"de qualidade média, mediana; que não é bom nem mau; ordinário"*. Os números levantados nos darão a resposta da pergunta do título.
 
 ## A metodologia
 
-Para encontrar o time mais medíocre do Brasileirão desde que o formato de pontos corridos foi adotado, foram considerados três critérios: **a colocação, o aproveitamento e o saldo de gols.** O número de cada time foi comparado com a média de cada edição sendo calculado um valor-z (desvio padrão em relação à média). Esses valores-z foram elevados ao quadrado e somados para cada campanha. Quanto mais próximo de zero for essa soma, mais na média foi aquela campanha.
+Para encontrar o time mais medíocre do Brasileirão desde que o formato de pontos corridos foi adotado, foram considerados três critérios: **a colocação, o aproveitamento e o saldo de gols** em cada ano. O número de cada time foi comparado com a média de cada edição sendo calculado um valor-z (desvio padrão em relação à média). Esses valores-z foram elevados ao quadrado e somados para cada campanha. Quanto mais próximo de zero for essa soma, mais na média foi aquela campanha.
 
 ## O resultado
 
 Considerando os times que disputaram pelo menos metade das edições desde que os pontos corridos foram implementados, o Botafogo é aquele com a menor pontuação média (1,19), o que significa que ele é o time mais medíocre da história dos Brasileirões de pontos corridos.
 
-Na edição atual, o Botafogo mantém sua mediocridade, e após ter terminado em 9º e 10º nos dois últimos anos, está na 12ª posição depois de 22 rodadas. Mais uma campanha medíocre do alvinegro carioca, assim como a maioria das suas campanhas desde que o Brasileirão começou a ser disputado em pontos corridos, como mostrado no gráfico a seguir.
+Na edição atual, o Botafogo dá um exemplo dessa mediocridade, e após ter terminado em 9º e 10º nos dois últimos anos, está na 12ª posição depois de 22 rodadas. Mais uma campanha medíocre do alvinegro carioca, assim como a maioria das suas campanhas desde que o Brasileirão começou a ser disputado em pontos corridos, como mostrado no gráfico a seguir.
 
 <iframe title="Em suas 14 participações no Brasileirão desde 2004, o Botafogo terminou 10 vezes entre a 6 e 15 colocação" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/UArZP/1/" scrolling="no" frameborder="0" style="border: none;" width="100%" height="400"></iframe>
 
@@ -29,13 +29,13 @@ Mesmo sendo o time mais medíocre de todos os tempos na comparação geral, o Bo
 |                    | Posição    | Aproveitamento | Saldo de Gols | Valor-Z |
 |--------------------|------------|----------------|---------------|         |
 | **Flamengo-14**    | 10º        | 46%            | -1            | 0,013   |
-| Média-14           | 10º ou 11º | 46%            | 0             |         |
+| Média-14           | 10º/11º    | 46%            | 0             |         |
 |                    |            |                |               |         |
 | **Palmeiras-10**   | 10º        | 44%            | -1            | 0,018   |
-| Média-10           | 10º ou 11º | 45%            | 0             |         |
+| Média-10           | 10º/11º    | 45%            | 0             |         |
 |                    |            |                |               |         |
 | **Santos-11**      | 10º        | 46%            | 0             | 0,022   |
-| Média-11           | 10º ou 11º | 46%            | 0             |         |
+| Média-11           | 10º/11º    | 46%            | 0             |         |
 
 # Ranking geral de mediocridade
 
