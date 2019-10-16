@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Por que o Botafogo é o time mais medíocre do Brasileirão?"
-date: 2019-10-01
+date: 2019-10-19
 ---
 
 Antes de começarmos: **"Calma, botafoguenses!"**. Medíocre é um adjetivo que significa que algo é *"de qualidade média, mediana; que não é bom nem mau; ordinário"*. Os números levantados nos darão a resposta da pergunta do título.
