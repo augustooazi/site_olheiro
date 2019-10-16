@@ -17,7 +17,7 @@ title: Olheiro
 description: "Futebol + Dados + Histórias"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://olheiro.net # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: olheiro # the GitHub repo name for your project
+github_repo: site_olheiro # the GitHub repo name for your project
 project_owner: Augusto Oazi
 
 # Build settings
