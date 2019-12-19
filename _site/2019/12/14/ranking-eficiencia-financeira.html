@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Ranking de Eficiência Financeira</title>
+  <meta name="description" content="">
+
+  <link href="/assets/css/style.css" rel="stylesheet">
+
+  <link rel="canonical" href="http://localhost:4000/2019/12/14/ranking-eficiencia-financeira.html">
+  <link rel="alternate" type="application/rss+xml" title="Olheiro" href="http://localhost:4000/feed.xml">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+  
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+
+
+  <body>
+
+    <header class="border-bottom-thick px-2 clearfix">
+  <div class="left sm-width-full py-1 mt-1 mt-lg-0">
+    <a class="align-middle link-primary text-accent" href="/">
+      Olheiro
+    </a>
+  </div>
+  <div class="right sm-width-full">
+    <ul class="list-reset mt-lg-1 mb-2 mb-lg-1">
+      
+        
+      
+        
+        <li class="inline-block">
+          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="/sobre/">
+            Sobre
+          </a>
+        </li>
+        
+      
+        
+      
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="col-12 px-0 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div itemprop="articleBody">
+      <style>
+
+  .show-widescreen {
+    display: none;
+  }
+
+  article {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  section {
+    width: 90%;
+    margin: 50px auto;
+    text-align: justify;
+  }
+
+  img {
+    width: 100%;
+    background-color: black;
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-size: 1.25em;
+  }
+
+  h1 {
+    font-size: 3em;
+    text-align: center;
+    background-color: black;
+    margin: 0 auto;
+    padding: 30px 0;
+    color: white;
+  }
+
+  /* Table design */
+
+  table {
+    margin: 0 auto;
+    width: 100%;
+    table-layout: fixed;
+    text-align: right;
+    border-collapse: collapse;
+    font-size: 1.2em;
+  }
+
+  .name {
+    width: 20%;
+  }
+
+  .position {
+    width: 20%;
+  }
+
+  .revenue {
+    width: 30%;
+  }
+
+  .money {
+    width: 30%;
+  }
+  th {
+    background-color: #ed702d;
+    padding: 5px 10px 5px 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  td {
+    padding: 5px 10px;
+  }
+
+  tbody tr:hover {
+    color: black;
+    background-color: white;
+  }
+
+  /* provide some minimal visual accomodation for IE8 and below */
+  tr{
+    background: #b8d1f3;
+    color: white;
+  }
+  /*  Define the background color for all the ODD background rows  */
+  tr:nth-child(odd){
+    background: #000000;
+  }
+  /*  Define the background color for all the EVEN background rows  */
+  tr:nth-child(even){
+    background: #222222 ;
+  }
+
+  tr:nth-child(2){
+    border-top: 1px #ed702d solid;
+  }
+
+  tr:nth-child(5){
+    border-top: 1px #ed702d dashed;
+  }
+
+  tr:nth-child(17){
+    border-top: 1px red dashed;
+  }
+
+  .table-obs {
+    text-align: center;
+    margin-bottom: 0;
+    color: #ed702d;
+  }
+
+  .final-obs {
+    text-align: center;
+  }
+
+  @media (min-width: 640px) {
+    section {
+      max-width: 600px;
+    }
+    .show-mobile {
+      display: none;
+    }
+    .show-widescreen {
+      display: block;
+    }
+    .name {
+      width: 40%;
+    }
+
+    .position {
+      width: 20%;
+    }
+
+    .revenue {
+      width: 20%;
+    }
+
+    .money {
+      width: 20%;
+    }
+  }
+
+  @media (min-width: 768px) {
+    table {
+      max-width: 900px;
+      font-size: 1.5em;
+    }
+
+  }
+
+  @media (min-width: 1024px) {
+
+  }
+
+  @media (min-width: 1280px) {
+
+  }
+
+</style>
+
+<h1 itemprop="name headline">Ranking de Eficiência Financeira</h1>
+
+<img src="/assets/TopDesktop.svg" class="show-widescreen">
+<img src="/assets/TopMobile.svg" class="show-mobile">
+
+<section class="">
+
+  <p>Um clube mais rico contrata os jogadores mais caro que o fazem ter mais vitórias. Essa é a lógica, mas nem sempre um investimento produz o retorno imaginado. Por isso a criação do <b>Ranking de Eficiência Financeira (REF)</b>, que além dos pontos conquistados, leva em consideração quanto dinheiro o time tem disponível.</p>
+
+</section>
+
+<p class="table-obs">Atualizado até a 38ª rodada do <b>Brasileirão 2019</b></p>
+
+<table id="myTable2">
+  <thead>
+    <tr>
+    <!--When a header is clicked, run the sortTable function, with a parameter,
+    0 for sorting by names, 1 for sorting by country: -->
+    <th class="name">Time</th>
+    <th onclick="sortTable(2)" class="position">Posição</th>
+    <th onclick="sortTable(3)" class="revenue">Faturam.</th>
+    <th onclick="sortTable(4)" class="ranking">REF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="show-widescreen">Santos</td>
+      <td class="show-mobile">SAN</td>
+      <td>2</td>
+      <td>209</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Fortaleza</td>
+      <td class="show-mobile">FOR</td>
+      <td>9</td>
+      <td>49</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Goiás</td>
+      <td class="show-mobile">GOI</td>
+      <td>10</td>
+      <td>81</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Bahia</td>
+      <td class="show-mobile">BAH</td>
+      <td>11</td>
+      <td>136</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Ceará</td>
+      <td class="show-mobile">CEA</td>
+      <td>16</td>
+      <td>65</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Athletico</td>
+      <td class="show-mobile">CAP</td>
+      <td>5</td>
+      <td>300</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Flamengo</td>
+      <td class="show-mobile">FLA</td>
+      <td>1</td>
+      <td>538</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Internacional</td>
+      <td class="show-mobile">INT</td>
+      <td>7</td>
+      <td>282</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">CSA</td>
+      <td class="show-mobile">CSA</td>
+      <td>18</td>
+      <td>17</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Chapecoense</td>
+      <td class="show-mobile">CHA</td>
+      <td>19</td>
+      <td>73</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Grêmio</td>
+      <td class="show-mobile">GRE</td>
+      <td>4</td>
+      <td>380</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Botafogo</td>
+      <td class="show-mobile">BOT</td>
+      <td>15</td>
+      <td>183</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Atlético</td>
+      <td class="show-mobile">CAM</td>
+      <td>13</td>
+      <td>230</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Vasco</td>
+      <td class="show-mobile">VAS</td>
+      <td>12</td>
+      <td>243</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">São Paulo</td>
+      <td class="show-mobile">SAO</td>
+      <td>6</td>
+      <td>402</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Avaí</td>
+      <td class="show-mobile">AVA</td>
+      <td>20</td>
+      <td>37</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Fluminense</td>
+      <td class="show-mobile">FLU</td>
+      <td>14</td>
+      <td>281</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Corinthians</td>
+      <td class="show-mobile">COR</td>
+      <td>8</td>
+      <td>430</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Palmeiras</td>
+      <td class="show-mobile">PAL</td>
+      <td>3</td>
+      <td>654</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td class="show-widescreen">Cruzeiro</td>
+      <td class="show-mobile">CRU</td>
+      <td>17</td>
+      <td>339</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="final-obs">*Faturamento em milhões de reais no ano de 2018</p>
+
+<section>
+  <h3>Metodologia</h3>
+
+  <p>Para determinar a posição dos times no Ranking de Eficiência Financeira, foram considerados os pontos e o faturamento de cada time. Cada um desses valores foi normalizado e combinado em um resultado final. O ranking acima foi feito com um peso igual para cada critério. Nos gráficos abaixo, você pode ver o que acontece quando damos um peso maior para as finanças ou para o desempenho dentro de campo.</p>
+
+</section>
+
+<img src="/assets/Ligacustobeneficio_horizontal.png" class="show-widescreen">
+<img src="/assets/Ligacustobeneficio_vertical.png" class="show-mobile">
+
+<section>
+  <h3>Considerações Finais</h3>
+
+  <p>O faturamento de cada time foi baseado nos resultados financeiros dos times em 2018 de acordo com o <a href="https://globoesporte.globo.com/blogs/blog-do-rodrigo-capelo/">Blog do Rodrigo Capelo</a>. Em abril do ano que vem, antes do início do Brasileirão 2020, atualizaremos o ranking com os números dos resultados financeiros de 2019, o que pode ocasionar em algumas mudanças de posição.</p>
+
+  <p>O <b>Ranking de Eficiência Financeira</b> foi inspirado na <a href="http://www.levelwagesleague.com">Level Wages League,</a> um projeto da consultoria After the Flood com os dados da Premier League.</p>
+</section>
+
+<script>
+  function sortTable(n) {
+    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+    table = document.getElementById("myTable2");
+    switching = true;
+    // Set the sorting direction to ascending:
+    dir = "asc";
+    /* Make a loop that will continue until
+    no switching has been done: */
+    while (switching) {
+      // Start by saying: no switching is done:
+      switching = false;
+      rows = table.rows;
+      /* Loop through all table rows (except the
+      first, which contains table headers): */
+      for (i = 1; i < (rows.length - 1); i++) {
+        // Start by saying there should be no switching:
+        shouldSwitch = false;
+        /* Get the two elements you want to compare,
+        one from current row and one from the next: */
+        x = rows[i].getElementsByTagName("TD")[n];
+        y = rows[i + 1].getElementsByTagName("TD")[n];
+        /* Check if the two rows should switch place,
+        based on the direction, asc or desc: */
+        if (dir == "asc") {
+          if (Number(x.innerHTML) > Number(y.innerHTML)) {
+            // If so, mark as a switch and break the loop:
+            shouldSwitch = true;
+            break;
+          }
+        } else if (dir == "desc") {
+          if (Number(x.innerHTML) < Number(y.innerHTML)) {
+            // If so, mark as a switch and break the loop:
+            shouldSwitch = true;
+            break;
+          }
+        }
+      }
+      if (shouldSwitch) {
+        /* If a switch has been marked, make the switch
+        and mark that a switch has been done: */
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+        // Each time a switch is done, increase this count by 1:
+        switchcount ++;
+      } else {
+        /* If no switching has been done AND the direction is "asc",
+        set the direction to "desc" and run the while loop again. */
+        if (switchcount == 0 && dir == "asc") {
+          dir = "desc";
+          switching = true;
+        }
+      }
+    }
+  }
+</script>
+
+  </div>
+
+</article>
+
+    </div>
+
+    <div class="border-top-thin clearfix mt-2 mt-lg-4">
+  <div class="container mx-auto px-2">
+    <p class="col-8 sm-width-full left py-2 mb-0">Esse projeto foi orgulhosamente criado por <a class="text-accent" href="https://augustooazi.com">Augusto Oazi</a></p>
+  </div>
+</div>
+
+
+  </body>
+
+</html>
