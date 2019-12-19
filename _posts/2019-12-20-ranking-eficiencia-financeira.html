@@ -117,6 +117,11 @@ date:   2019-12-14
     text-align: center;
   }
 
+  .REF {
+    font-weight: bold;
+    padding-right: 25px;
+  }
+
   @media (min-width: 640px) {
     section {
       max-width: 600px;
@@ -169,7 +174,7 @@ date:   2019-12-14
 
 <section class="">
 
-  <p>Um clube mais rico contrata os jogadores mais caro que o fazem ter mais vitórias. Essa é a lógica, mas nem sempre um investimento produz o retorno imaginado. Por isso a criação do <b>Ranking de Eficiência Financeira (REF)</b>, que além dos pontos conquistados, leva em consideração quanto dinheiro o time tem disponível.</p>
+  <p>Um clube mais rico contrata os jogadores mais caros que o fazem ter mais vitórias. Essa é a lógica, mas nem sempre um investimento produz o retorno imaginado. Essa foi a motivação para a criação do <b>Ranking de Eficiência Financeira (REF)</b> que, além dos pontos conquistados, leva em consideração quanto dinheiro o time tem disponível.</p>
 
 </section>
 
@@ -181,9 +186,9 @@ date:   2019-12-14
     <!--When a header is clicked, run the sortTable function, with a parameter,
     0 for sorting by names, 1 for sorting by country: -->
     <th class="name">Time</th>
-    <th onclick="sortTable(2)" class="position">Posição</th>
-    <th onclick="sortTable(3)" class="revenue">Faturam.</th>
-    <th onclick="sortTable(4)" class="ranking">REF</th>
+    <th onclick="sortTable(2)" class="position"><span class="show-widescreen">Posição</span><span class="show-mobile">Pos.</span></th>
+    <th onclick="sortTable(3)" class="revenue"><span class="show-widescreen">Faturam.</span><span class="show-mobile">Fatur.</span></th>
+    <th onclick="sortTable(4)" class="ranking REF">REF</th>
     </tr>
   </thead>
   <tbody>
@@ -192,140 +197,140 @@ date:   2019-12-14
       <td class="show-mobile">SAN</td>
       <td>2</td>
       <td>209</td>
-      <td>1</td>
+      <td class="REF">1</td>
     </tr>
     <tr>
       <td class="show-widescreen">Fortaleza</td>
       <td class="show-mobile">FOR</td>
       <td>9</td>
       <td>49</td>
-      <td>2</td>
+      <td class="REF">2</td>
     </tr>
     <tr>
       <td class="show-widescreen">Goiás</td>
       <td class="show-mobile">GOI</td>
       <td>10</td>
       <td>81</td>
-      <td>3</td>
+      <td class="REF">3</td>
     </tr>
     <tr>
       <td class="show-widescreen">Bahia</td>
       <td class="show-mobile">BAH</td>
       <td>11</td>
       <td>136</td>
-      <td>4</td>
+      <td class="REF">4</td>
     </tr>
     <tr>
       <td class="show-widescreen">Ceará</td>
       <td class="show-mobile">CEA</td>
       <td>16</td>
       <td>65</td>
-      <td>5</td>
+      <td class="REF">5</td>
     </tr>
     <tr>
       <td class="show-widescreen">Athletico</td>
       <td class="show-mobile">CAP</td>
       <td>5</td>
       <td>300</td>
-      <td>6</td>
+      <td class="REF">6</td>
     </tr>
     <tr>
       <td class="show-widescreen">Flamengo</td>
       <td class="show-mobile">FLA</td>
       <td>1</td>
       <td>538</td>
-      <td>7</td>
+      <td class="REF">7</td>
     </tr>
     <tr>
       <td class="show-widescreen">CSA</td>
       <td class="show-mobile">CSA</td>
       <td>18</td>
       <td>17</td>
-      <td>8</td>
+      <td class="REF">8</td>
     </tr>
     <tr>
       <td class="show-widescreen">Internacional</td>
       <td class="show-mobile">INT</td>
       <td>7</td>
       <td>282</td>
-      <td>9</td>
+      <td class="REF">9</td>
     </tr>
     <tr>
       <td class="show-widescreen">Chapecoense</td>
       <td class="show-mobile">CHA</td>
       <td>19</td>
       <td>73</td>
-      <td>10</td>
+      <td class="REF">10</td>
     </tr>
     <tr>
       <td class="show-widescreen">Grêmio</td>
       <td class="show-mobile">GRE</td>
       <td>4</td>
       <td>380</td>
-      <td>11</td>
+      <td class="REF">11</td>
     </tr>
     <tr>
       <td class="show-widescreen">Botafogo</td>
       <td class="show-mobile">BOT</td>
       <td>15</td>
       <td>183</td>
-      <td>12</td>
+      <td class="REF">12</td>
     </tr>
     <tr>
       <td class="show-widescreen">Atlético</td>
       <td class="show-mobile">CAM</td>
       <td>13</td>
       <td>230</td>
-      <td>13</td>
+      <td class="REF">13</td>
     </tr>
     <tr>
       <td class="show-widescreen">Vasco</td>
       <td class="show-mobile">VAS</td>
       <td>12</td>
       <td>243</td>
-      <td>14</td>
+      <td class="REF">14</td>
     </tr>
     <tr>
       <td class="show-widescreen">São Paulo</td>
       <td class="show-mobile">SAO</td>
       <td>6</td>
       <td>402</td>
-      <td>15</td>
+      <td class="REF">15</td>
     </tr>
     <tr>
       <td class="show-widescreen">Avaí</td>
       <td class="show-mobile">AVA</td>
       <td>20</td>
       <td>37</td>
-      <td>16</td>
+      <td class="REF">16</td>
     </tr>
     <tr>
       <td class="show-widescreen">Fluminense</td>
       <td class="show-mobile">FLU</td>
       <td>14</td>
       <td>281</td>
-      <td>17</td>
+      <td class="REF">17</td>
     </tr>
     <tr>
       <td class="show-widescreen">Corinthians</td>
       <td class="show-mobile">COR</td>
       <td>8</td>
       <td>430</td>
-      <td>18</td>
+      <td class="REF">18</td>
     </tr>
     <tr>
       <td class="show-widescreen">Palmeiras</td>
       <td class="show-mobile">PAL</td>
       <td>3</td>
       <td>654</td>
-      <td>19</td>
+      <td class="REF">19</td>
     </tr>
     <tr>
       <td class="show-widescreen">Cruzeiro</td>
       <td class="show-mobile">CRU</td>
       <td>17</td>
       <td>339</td>
-      <td>20</td>
+      <td class="REF">20</td>
     </tr>
   </tbody>
 </table>
